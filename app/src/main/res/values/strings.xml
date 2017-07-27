@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EOC Messenger</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="menu_login">Log in</string>
+    <string name="menu_logout">Log out</string>
+
+    <string name="sign_up">Sign Up</string>
+    <string name="hint_password">password</string>
+    <string name="hint_email">email</string>
+    <string name="sign_in">Sign In</string>
+</resources>
